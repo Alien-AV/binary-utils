@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "binary-utils", "binary-utils\binary-utils.csproj", "{068FD41A-0200-405B-A229-1F544019313C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{068FD41A-0200-405B-A229-1F544019313C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068FD41A-0200-405B-A229-1F544019313C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068FD41A-0200-405B-A229-1F544019313C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068FD41A-0200-405B-A229-1F544019313C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74555346-4289-4BE2-914E-DEA5F9A2F831}
+	EndGlobalSection
+EndGlobal
